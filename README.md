@@ -26,3 +26,6 @@ o próximo número da sequencia é `13`
 
 ### Item F
 Realmente a sequência parece quase aleatória, mas da para perceber que os valores da diferença dos números no final da sequencia vale 1. Assim sendo o próximo número da sequencia deve ser `20`  
+
+## Questão 3
+Na questão 3 o código foi desenvolvido em python, a função que calcula os valores pedidos na questão é a `calculaValoresFaturamento`. Como teste tem a função `geraVetorFaturamento` para gerrar um vetor de teste
