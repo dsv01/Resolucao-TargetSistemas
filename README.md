@@ -33,3 +33,6 @@ Na questão 3 o código foi desenvolvido em python, a função que calcula os va
 ## Questão 4
 No diretório Questao4 está o modelo lógico proposto pela questão. Uma consulta do banco de dados nesse modelo como pedida na questão seria:
 `SELECT codigo, razao, FROM Cliente JOIN Telefone ON Estado = SP`
+
+## Questão 5
+Analisando a questão, independente da velocidade, da distância entre as cidades, ou da posição dos pedágios, quando o carro e o caminhão se cruzarem o caminhão sempre vai estar mais próximo de Ribeirão Preto, do que o carro, já que eles já se cruzaram.
