@@ -29,3 +29,7 @@ Realmente a sequência parece quase aleatória, mas da para perceber que os valo
 
 ## Questão 3
 Na questão 3 o código foi desenvolvido em python, a função que calcula os valores pedidos na questão é a `calculaValoresFaturamento`. Como teste tem a função `geraVetorFaturamento` para gerrar um vetor de teste
+
+## Questão 4
+No diretório Questao4 está o modelo lógico proposto pela questão. Uma consulta do banco de dados nesse modelo como pedida na questão seria:
+`SELECT codigo, razao, FROM Cliente JOIN Telefone ON Estado = SP`
